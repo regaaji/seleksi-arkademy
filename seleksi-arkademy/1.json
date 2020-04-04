@@ -1,0 +1,27 @@
+
+
+  function biodata(get_name, get_age){
+  let data = {
+      name : get_name,
+      age : get_age,
+      address : "Trenggalek, Jawa Timur",
+      hobbies : ['Reading','Watching Anime','Riding Bicycle'],
+      is_married : false,
+      list_school : {
+        "name" : "SMKN 2 TRENGGALEK",
+        "year_in" : 2017,
+        "year_out" : 2020
+      },
+      skill : {
+        "php_native" : "advance",
+        "codeigniter" : "advance",
+        "bootstrap" : "advance",
+        "javascript" : "beginner"
+      },
+      interest_in_coding : true
+  }
+  return JSON.stringify(data);
+}
+
+
+
