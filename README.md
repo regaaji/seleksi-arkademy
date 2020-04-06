@@ -25,3 +25,9 @@ Untuk soal no. 6.c terdapat pada folder "arkademy-crud" dan saya menggunakan Fra
  Preview Aplikasi di Soal Nomor 6
 
 ![alt text](seleksi-arkademy/arkademy-static/assets/img/ss1.png "image title")
+
+![alt text](seleksi-arkademy/arkademy-static/assets/img/ss2.png "image title")
+
+![alt text](seleksi-arkademy/arkademy-static/assets/img/ss3.png "image title")
+
+![alt text](seleksi-arkademy/arkademy-static/assets/img/ss4.png "image title")
